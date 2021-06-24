@@ -1,0 +1,104 @@
+.superior{
+    background-color: #1CD1B0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 10px 0px 10px 10px;
+    margin-bottom: 0;
+}
+
+.Titulo{
+    background-color: #00669F;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    margin-top: 0;
+    padding: 20px;
+}
+
+.flex-contain{
+    display: flex;
+    justify-content: center;
+}
+
+.Card{
+    display: inline-block;
+    height: 529px;
+    width: 300px;
+    background-color: #F3F3F3;
+    border-radius: 16px;
+    box-shadow: 8px 8px 5px grey;
+    margin: 150px 20px 150px 20px;
+}
+
+div .fondo{
+    background-image: url(../img/Group\ 23.png);
+    background-position: absolute;
+    width: 300px;
+    height: 193px;
+}
+
+div #cueva{
+    background-image: url(../img/cueva.png);
+}
+
+div #colores{
+    background-image: url(../img/colores.png);
+}
+
+
+.like{
+    background-image: url(../img/Vector.png);
+    position: absolute;
+    width: 30px;
+    height: 28px;
+    margin: 15px;
+    background-repeat: no-repeat;
+}
+
+div .foto{
+    width: 120px;
+    height: 118px;
+    border-radius: 100%;
+    margin-left: 90px ;
+    margin-right: 90px;
+    margin-top: 134px;
+    position: absolute;
+    box-shadow: 5px 5px 8px grey;
+}
+
+div #Batman{
+    background-image: url(../img/batman.png);
+}
+
+div #Harley{
+    background-image: url(../img/queen.png);
+}
+
+h2{
+    margin-top: 70px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+p.text{
+    margin: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+button{
+    background-color: #00669F;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 128.78px;
+    height: 48.52px;
+    margin-left: 85.61px;
+    margin-right: 85.61px;
+}
+
+footer{
+    color: white;
+    background-color:#00669F;
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 0px 10px 10px;
+}
